@@ -1,0 +1,23 @@
+{
+  "name": "p3_guirassy_mohamed",
+  "version": "1.0.0",
+  "description": "mon projet openclassrooms 3 Ohmyfood",
+  "main": "index.html",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamed95350/P3_Guirassy_Mohamed.git"
+  },
+  "author": "Guirassy Mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamed95350/P3_Guirassy_Mohamed/issues"
+  },
+  "homepage": "https://github.com/Mohamed95350/P3_Guirassy_Mohamed#readme",
+  "dependencies": {
+    "sass": "^1.48.0"
+  }
+}
